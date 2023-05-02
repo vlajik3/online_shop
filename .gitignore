@@ -1,0 +1,5 @@
+/server/node_modules
+/server/.env
+.idea
+/server/prettierrc
+.idea/online_shop.iml
